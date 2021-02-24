@@ -2,9 +2,9 @@
 
 ## Description
 
-In this challenge, you will take a legacy hello-world HTTP server app, containerize it using Docker, and deploy it to the cloud.
+In this challenge, you will take a legacy hello-world HTTP server application, containerize it using Docker, and deploy it to the cloud.
 
-You do not need any previous experience with Ruby on Rails to complete this challenge, and no modifications or additions to the application code are necessary. You should be able to complete the challenge using a combination of the legacy app README below, previous experience, and online research. There is no time limit, but you should be able to complete it in less than 4 hours.
+You do not need any previous experience with Ruby on Rails to complete this challenge, and no modifications or additions to the application code are necessary. You should be able to complete the challenge using a combination of the legacy application README below, previous experience, and online research. There is no time limit, but you should be able to complete it in less than 4 hours.
 
 You may use any technologies or platforms you want, but you must containerize the application yourself and include a Dockerfile.
 
@@ -30,7 +30,11 @@ Presented in decreasing order of value. Do not implement all of these, one or tw
 - Valid SSL certificate: No SSL warnings or errors in the latest version of Chrome, a padlock icon is displayed
 - Some other feature/improvement over the basic requirements that you'd like to highlight
 
-## Short-form questions
+## Submission details and short-form questions
+
+Submit your application to us by email as a g-zipped tarball (.tar.gz) of the repository root including the .git folder. *Do not submit a pull request* or otherwise make a public submission.
+
+Your final submission should be on the master branch, without erasing or changing the existing commit history.
 
 Answer these questions in the README of your submission
 
