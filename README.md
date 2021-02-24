@@ -42,7 +42,7 @@ Answer these questions in the README of your submission
 
 1. Briefly describe the technologies/platforms used (besides Docker and RoR). Describe where in the git repo these technologies/platforms are configured. If there are technologies/platforms configured manually in a web GUI or similar, include screenshots of all of the configuration.
 
-1. Did you achieve any of the bonus objectives? Which ones and how?
+1. Did you achieve any of the bonus objectives? Which ones and how? Optionally, for any bonus objectives that were not completed, describe in 1-3 sentences how you would complete the objective given more time or money.
 
 # Legacy application README
 
