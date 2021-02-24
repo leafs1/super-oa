@@ -22,12 +22,12 @@ You may use any technologies or platforms you want, but you must containerize th
 
 Presented in decreasing order of value. Do not implement all of these, one or two (or zero) is just fine.
 
-- Zero downtime upgrades: the application is available all throughout the deployment process
-- Scalable horizontally and vertically: your deployment can handle arbitrary levels of traffic simply by adjusting configuration and spending more money. Assume for the purposes of this objective that the message is not static (no caches in front of the application are allowed)
 - IaC (Infrastructure as Code): as much configuration as possible is stored in the git repo in text files, except for the value of RAILS_ENV
 - Build step is fast, especially if nothing has changed in the library dependencies since a previous commit
-- Local docker development: docker-compose.yaml file that allows developers to develop locally in a container
+- Zero downtime upgrades: the application is available all throughout the deployment process
+- Scalable horizontally and vertically: your deployment can handle arbitrary levels of traffic simply by adjusting configuration and spending more money. Assume for the purposes of this objective that the message is not static (no caches in front of the application are allowed)
 - Valid SSL certificate: No SSL warnings or errors in the latest version of Chrome, a padlock icon is displayed
+- Local docker development: docker-compose.yaml file that allows developers to develop locally in a container
 - Some other feature/improvement over the basic requirements that you'd like to highlight
 
 ## Submission details and short-form questions
