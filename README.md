@@ -6,7 +6,7 @@ In this challenge, you will take a legacy hello-world HTTP server application, c
 
 You do not need any previous experience with Ruby on Rails to complete this challenge, and no modifications or additions to the application code are necessary. You should be able to complete the challenge using a combination of the legacy application README below, previous experience, and online research. There is no time limit, but you should be able to complete it in less than 4 hours.
 
-You may use any technologies or platforms you want, but you must containerize the application yourself and include a Dockerfile.
+You may use any technologies or platforms you want, but you must containerize the application yourself and include a Dockerfile. If you incur any expenses during this challenge, we will reimburse you up to CAD$10. Send a receipt / screenshot of the expenses incurred to your recruiter 3 days after the stated due date.
 
 ## Requirements
 
@@ -35,6 +35,8 @@ Presented in decreasing order of value. Do not implement all of these, one or tw
 Submit your application to us by email as a g-zipped tarball (.tar.gz) of the repository root including the .git folder. *Do not submit a pull request* or otherwise make a public submission.
 
 Your final submission should be on the master branch, without erasing or changing the existing commit history.
+
+The application should be available at the URL you provided for 3 days past the stated due date.
 
 Answer these questions in the README of your submission
 
