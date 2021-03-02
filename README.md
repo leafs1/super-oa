@@ -22,6 +22,7 @@ Presented in decreasing order of value. Do not implement all of these, one or tw
 - IaC (Infrastructure as Code): as much configuration as possible is stored in the git repo in text files, except for the value of RAILS_ENV
 - Zero downtime upgrades: the application is available all throughout the deployment process
 - Scalable horizontally and vertically: your deployment can handle arbitrary levels of traffic simply by adjusting configuration and spending more money. Assume for the purposes of this objective that the message is not static (no caches in front of the application are allowed)
+- SSL configured correctly, no SSL warnings when accessing the webpage over SSL and a padlock sign is displayed in Chrome
 - Local docker development: docker-compose.yaml file that allows developers to develop locally in a container
 - Some other feature/improvement over the basic requirements that you'd like to highlight
 
