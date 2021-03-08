@@ -30,7 +30,11 @@ Presented in decreasing order of value. Do not implement all of these, one or tw
 
 Submit your application to us by email as a g-zipped tarball (.tar.gz) of the repository root including the .git folder. **Do not submit a pull request or otherwise make a public submission or expose your code to the public**.
 
-Your final submission should be on the master branch, without erasing or changing the existing commit history.
+**Note: GMail does not allow direct attachments of compressed archives containing .js files. Please follow these instructions to submit your assignment via Google Drive link instead:**
+
+https://support.google.com/mail/answer/6590?hl=en#zippy=%2Cmessages-that-have-attachments
+
+Your final submission should be committed to the master branch, without erasing or changing the existing commit history.
 
 The application should be available at the URL you provided for 3 days past the stated due date.
 
