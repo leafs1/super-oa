@@ -34,6 +34,8 @@ Submit your application to us by email as a g-zipped tarball (.tar.gz) of the re
 
 https://support.google.com/mail/answer/6590?hl=en#zippy=%2Cmessages-that-have-attachments
 
+You can also send us a Dropbox link, etc.
+
 Your final submission should be committed to the master branch, without erasing or changing the existing commit history.
 
 The application should be available at the URL you provided for 3 days past the stated due date.
