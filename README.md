@@ -11,7 +11,7 @@ You may use any technologies or platforms you want, but you must containerize th
 ## Requirements
 
 1. The application is containerized via a Dockerfile placed in the root of the project. If someone were to run `docker build .` it would complete successfully.
-1. A running version of the built docker image is accessible over HTTP over the public internet at an address provided by you at the root path. Eg. http://some-domain.somewhere.com/ or http://<someipv4address>/
+1. A running version of the built docker image is accessible over HTTP over the public internet at an address provided by you at the root path. Eg. `http://some-domain.somewhere.com/` or `http://<someipv4address>/`
 1. The message displayed is "Hello world from production!". The last word in the message is controlled via the environment variable RAILS_ENV. Do not hardcode the value "production" into the application code or the built Docker image. Set the environment variable correctly at container launch time depending on your chosen platform / technology stack.
 
 ## Bonus objectives
