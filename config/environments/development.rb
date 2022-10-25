@@ -73,4 +73,8 @@ Rails.application.configure do
 
   # Uncomment if you wish to allow Action Cable access from any origin.
   # config.action_cable.disable_request_forgery_protection = true
+
+  
+  # Allow for hosting on railway
+  config.hosts << "affectionate-dinosaurs-production.up.railway.app"
 end

@@ -31,8 +31,16 @@ The application should be available at the URL you provided for 3 days past the 
 Answer these questions in the README of your submission
 
 1. What is the URL of the hosted application?
+   https://affectionate-dinosaurs-production.up.railway.app/
 
 1. Briefly describe the technologies/platforms used (besides Docker and RoR). Describe where in the git repo these technologies/platforms are configured. If there are technologies/platforms configured manually in a web GUI or similar, include screenshots of all of the configuration.
+
+I used [Railway](https://railway.app) to deploy the application. It is a hosting/deployment platform that automatically reads the Dockerfile and creates an image based off of that. I just had to link my local repository to the Railway project, and it deploys the application with just one CLI command.
+
+![1](submission-imgs/1.png)
+![2](submission-imgs/2.png)
+![3](submission-imgs/3.png)
+![4](submission-imgs/4.png)
 
 # Legacy application README
 
@@ -41,7 +49,7 @@ Answer these questions in the README of your submission
 Requires MRI Ruby v2.7.2
 
 Requires bundler 2.1.4: `gem install bundler -v 2.1.4`
- 
+
 To install library dependencies: `bundle install`
 
 ## Running the test suite
